@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-        "prepare": "husky install || true",
+    "prepare": "husky install || true",
     "lint": "next lint"
   },
   "dependencies": {
@@ -16,7 +16,7 @@
     "@react-three/fiber": "^9.0.4",
     "@types/three": "^0.173.0",
     "gsap": "^3.12.7",
-    "next": "15.5.2",
+    "next": "15.5.9",
     "react": "^19.0.0",
     "react-device-detect": "^2.2.3",
     "react-dom": "^19.0.0",
@@ -24,7 +24,7 @@
     "uuid": "^11.1.0",
     "zustand": "^5.0.3"
   },
-    "devDependencies": {
+  "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@types/node": "^20",
     "@types/react": "^19",
